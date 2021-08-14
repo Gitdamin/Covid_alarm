@@ -2,8 +2,7 @@
 >#### 라즈베리파이 기기와 카카오채널 플랫폼을 활용한 서비스
 _____________
 ## :dizzy: 배경
-![22](https://user-images.githubusercontent.com/86276347/129439430-d93fc905-4c96-4a21-8ac6-da590b16ae35.JPG)
-
+<img src="https://user-images.githubusercontent.com/86276347/129440832-2368b58c-c531-4387-b7bc-38441c8e2808.JPG" width="700px" height="450px" title="33" alt="33"></img><br/>
 * 2021-08-14 일자 기준 코로나19 감염 확진자수는 여전히 줄지 않는 추세
 * 많은 사람들이 코로나19로 인해 불안감이 높아짐
 * 매일 인터넷에 접속하여 검색하는 것은 비효율적
@@ -28,7 +27,7 @@ CovidURL = 'https://search.naver.com/search.naver?ie=utf8&query='+ naver_input
 
 * 사용자의 카카오톡으로 전송  
 >사용자가 전달받는 메시지 예시  
-![KakaoTalk_20210814_162126172](https://user-images.githubusercontent.com/86276347/129438621-d11b5785-eab6-4ec6-810e-5b99a4408b9d.jpg)
+<img src="https://user-images.githubusercontent.com/86276347/129438621-d11b5785-eab6-4ec6-810e-5b99a4408b9d.jpg" width="780px" height="165px" title="11" alt="11"></img><br/>
 <br/>
  
 * 전송 시간 설정
