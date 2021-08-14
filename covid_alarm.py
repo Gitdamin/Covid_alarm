@@ -62,7 +62,7 @@ def kakao():
 while True:
     
     now = datetime.datetime.now()
-    if (now.hour > Time) : 
+    if (now.hour == Time) : 
         
            kakao()
     
