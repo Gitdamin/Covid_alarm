@@ -1,0 +1,1 @@
+# covidAlarm_raspberry
