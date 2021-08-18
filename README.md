@@ -11,7 +11,7 @@ _____________
 ________
 ## :dizzy: 기능 및 내용
 ### 구성도 :fire: 
-<img src="https://user-images.githubusercontent.com/86276347/129881719-f6798ce9-4b72-49ef-9c24-e03c3df6f753.jpg" width="450px" height="225px" title="33" alt="33"></img><br/>
+<img src="https://user-images.githubusercontent.com/86276347/129881719-f6798ce9-4b72-49ef-9c24-e03c3df6f753.jpg" width="470px" height="225px" title="33" alt="33"></img><br/>
 <br/>
 
 ### 사용 기술 :fire: 
@@ -57,5 +57,5 @@ CovidURL = 'https://search.naver.com/search.naver?ie=utf8&query='+ naver_input
 ```
 <br/>
 
-* 사용자가 실제 전달받는 메시지 예시<br/>
-<img src="https://user-images.githubusercontent.com/86276347/129438621-d11b5785-eab6-4ec6-810e-5b99a4408b9d.jpg" width="580px" height="100px" title="11" alt="11"></img><br/>
+* 사용자가 실제 전달받는 메시지<br/>
+><img src="https://user-images.githubusercontent.com/86276347/129887480-6fe89e9e-a3e8-45c2-a74e-a264c6505d86.JPG" width="440px" height="150px" title="11" alt="11"></img><br/>
