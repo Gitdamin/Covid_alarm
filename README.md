@@ -11,7 +11,7 @@ _____________
 ________
 ## :dizzy: 기능 및 내용
 ### 구성도 :fire: 
-<img src="https://user-images.githubusercontent.com/86276347/129881719-f6798ce9-4b72-49ef-9c24-e03c3df6f753.jpg" width="450px" height="210px" title="33" alt="33"></img><br/>
+<img src="https://user-images.githubusercontent.com/86276347/129881719-f6798ce9-4b72-49ef-9c24-e03c3df6f753.jpg" width="450px" height="190px" title="33" alt="33"></img><br/>
 <br/>
 
 ### 사용 기술 :fire: 
@@ -38,6 +38,13 @@ element = driver.find_element_by_xpath('//*[@id="_cs_production_type"]/div/div[4
 6. 사용자의 카카오 채널 로드 및 로그인
 7. 관련 메시지와 element 값 전송
 8. 사용자는 카카오톡을 통해 '오늘의 확진자 수' 전달 받음. 
+__________
+## :dizzy: 특장점
+
+* 라즈베리파이를 활용하여 효율 증가
+* 사용자의 편리성 및 이용성 증가
+* 현 시대에 알맞은 서비스
+* 사용자의 나이대에 관계없는 서비스
 __________
 ## :dizzy: 사용 예시
 
