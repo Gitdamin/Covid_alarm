@@ -46,24 +46,29 @@ __________
 * 현 시대에 알맞은 서비스
 * 사용자의 나이대에 관계없는 서비스
 __________
-## :dizzy: 사용 예시
+## :dizzy: Setting + Start
 
-* 사용자가 원하는 시간으로 조정 가능
+```raspberry pi 3+, Selenium, kakao```
+<br/>
+
+1. download
+```
+git clone https://github.com/Gitdamin/Covid_alarm.git
+cd Covid_alarm
+```
+2. 사용자 맞춤 조정
 >주의) 확진자 수가 새롭게 업데이트 되는 시각 이후로 조정
 ```python
-#알림 전송 시간 예시
+# 알림 전송 시간 예시
 Time = 10  
-```
-<br/>
-  
-* 사용자의 위치에 따라 ```city``` 다르게 설정
-```python
+.
+.
 # 지역 예시
 city = '서울'
 naver_input = urllib.parse.quote(city + ' 코로나 확진자')
-CovidURL = 'https://search.naver.com/search.naver?ie=utf8&query='+ naver_input
 ```
-<br/>
+3. 실제 사용
+```covid_alarm.py``` 실행
 
 * 사용자가 실제 전달받는 메시지<br/>
 ><img src="https://user-images.githubusercontent.com/86276347/129887480-6fe89e9e-a3e8-45c2-a74e-a264c6505d86.JPG" width="440px" height="150px" title="11" alt="11"></img><br/>
