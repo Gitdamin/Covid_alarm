@@ -48,7 +48,7 @@ __________
 __________
 ## :dizzy: Setting + Start
 
-```raspberry pi 3+, Selenium, kakao```
+```raspberry pi 3+, python 3.7.3, Selenium, kakao```
 <br/>
 
 1. download
@@ -67,7 +67,7 @@ Time = 10
 city = '서울'
 naver_input = urllib.parse.quote(city + ' 코로나 확진자')
 ```
-3. 실제 사용
+3. 실제 사용<br/>
 ```covid_alarm.py``` 실행
 
 * 사용자가 실제 전달받는 메시지<br/>
