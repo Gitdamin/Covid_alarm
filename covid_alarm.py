@@ -24,7 +24,7 @@ def kakao():
       
           
     #크롬 드라이버 로드
-    driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver', options=options)
+    driver = webdriver.Chrome('./src/chromedriver', options=options)
     driver.implicitly_wait(3)
     
     #user-agent 변경
